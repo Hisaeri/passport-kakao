@@ -3,6 +3,7 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
     return (mod && mod.__esModule) ? mod : { "default": mod };
 };
 Object.defineProperty(exports, "__esModule", { value: true });
+exports.buildOptions = void 0;
 var util_1 = require("util");
 var passport_oauth2_1 = __importDefault(require("passport-oauth2"));
 var DEFAULT_CLIENT_SECRET = 'kakao';
