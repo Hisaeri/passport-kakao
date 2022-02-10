@@ -1,5 +1,5 @@
 {
-  "name": "passport-kakao",
+  "name": "passport-kakao-oauth2",
   "version": "1.0.0",
   "description": "kakao oauth2 login module",
   "main": "./dist/passport-kakao",
@@ -11,9 +11,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/rotoshine/passport-kakao.git"
+    "url": "git://github.com/hisaeri/passport-kakao.git"
   },
-  "author": "rotoshine@gmail.com",
+  "author": "roch.fiona@gmail.com",
   "license": "MIT",
   "dependencies": {
     "pkginfo": "~0.3.0",
